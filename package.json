@@ -52,7 +52,7 @@
     "url": "https://github.com/bitpay/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore": "git://github.com/DigiByte-Team/bitcore.git",
+    "bitcore": "git://github.com/DigiByte-Team/bitcore.git#69fcc49b344aa3869582dcecbfaa3fc83c97a942",
     "bloom-filter": "^0.2.0",
     "buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
